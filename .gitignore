@@ -1,0 +1,4 @@
+.build/
+CopyPasteMagic.app/
+.swiftpm/
+.DS_Store
